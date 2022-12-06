@@ -1,3 +1,3 @@
 # Reduced-RISC-V-pipelined
 
-[![CircleCI](https://img.shields.io/github/workflow/status/unifyai/ivy/test-ivy?label=tests)]
+![CircleCI](https://img.shields.io/github/workflow/status/johanjino/Reduced-RISC_V-pipelined?label=tests)
